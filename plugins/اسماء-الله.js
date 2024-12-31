@@ -18,8 +18,8 @@ ${translation_id}
     }
     m.reply(contoh + data + anjuran)
 }
-handler.help = ['الله [1-99]']
-handler.tags = ['قران']
+handler.help = ['✓ ◡̈⃝ ✓│الله📿◡̈⃝🤍']
+handler.tags = ['islam']
 handler.command = /^الله$/i
 export default handler
 
