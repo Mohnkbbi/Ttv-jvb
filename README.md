@@ -1,20 +1,20 @@
 <p align="center">
- <img width="180px" src="https://envs.sh/wHc.jpg" align="center"/>
- <h2 align="center">TheFlash-Bot-MD</h2>
+ <img width="180px" src="https://envs.sh/oUV.jpeg" align="center"/>
+ <h2 align="center">Terbo-Bot-MD</h2>
  <p align="center">Este bot fue desarrollado por Zack y Naruto.</p>
 </p>
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=+265884756906&text=&text=.menu">Comunicarse con el bot</a>
+  <a href="https://api.whatsapp.com/send?phone=+201279181809&text=&text=.menu">Comunicarse con el bot</a>
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=+265884756906&text=&text=.اوامر">الــتــواصـل مـع الــبــوت</a>
+  <a href="https://api.whatsapp.com/send?phone=+201279181809&text=&text=.اوامر">الــتــواصـل مـع الــبــوت</a>
 
-# `Flash-Bot` 
+# `Terbo-Bot` 
 
-# `تــم صــنــع وتــطــويــر هــذا الــبــوت بــواســطــة عــراب زاك و نــاروتــو` 
+# `تــم صــنــع وتــطــويــر هــذا الــبــوت بــواســطــة تيربو طلقةة الجيزه` 
 <p align="center">
-<img src="https://envs.sh/06H.jpg" alt="⁨عــراب زاك⁩" width="900"/>
+<img src="https://envs.sh/rhj.jpg" alt="تيربو طلقةة الجيزهه" width="900"/>
 </p>
 
 ------------------
@@ -27,14 +27,14 @@
 
 [ 🔗 ] https://github.com/araab-zack
 
-[ 🔗 ] https://github.com/naru12348
+[ 🔗 ] https://github.com/naru12345
 
 ### `▢ مجموعات الدعم (المتوفرة)`
 ### `▢ Grupos de apoyo (Disponibles)`
 
- <a href="https://chat.whatsapp.com/H93YpO0LkJNHoTmtIhcL1z" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(AR)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+ <a href="" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(AR)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<a href="https://chat.whatsapp.com/H93YpO0LkJNHoTmtIhcL1z" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(ES)_-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(ES)_-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 > [ 📌 ] لا يُسمح بالبوتات الاخري في مجموعات الدعم.
 
